@@ -1,3 +1,3 @@
-Python Automation Projects
+### Python Automation Projects
 
 Some projects following the freeCodecamp python automation course.
